@@ -11,4 +11,4 @@
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/samyakj_7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samyakj7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samyak-jain-51809828b/) 
 # 💻 Tech Stack:
-<img src="https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,nodejs,express,python,java,tailwind,threejs,mongodb,flask,firebase,mysql,fastapi,postman,aws,gcp,azure,heroku,vercel,vite,github,html,vscode,androidstudio&perline=13">
+<img src="https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,nodejs,express,python,java,rust,tailwind,threejs,mongodb,flask,firebase,mysql,fastapi,postman,aws,gcp,azure,heroku,vercel,vite,github,html,androidstudio&perline=13">
