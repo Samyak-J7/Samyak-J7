@@ -28,7 +28,7 @@
 
 </td>
 <td width="50%" align="center">
-
+<a href="#" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyak-J7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages Used" align="center"/></a>
 
   
   </td>
